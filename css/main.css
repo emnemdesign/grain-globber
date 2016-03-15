@@ -15,14 +15,12 @@ html {
 }
 
 .grains li {
-  padding-bottom: 15px;
-  margin-bottom: 10px;
+   
 }
 
 .grains img {
   width: 100px;
-  float: left;
-  display: inline-block;
+  display: block;
   margin-right: 5px;
 }
 
