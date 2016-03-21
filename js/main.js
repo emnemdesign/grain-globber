@@ -1,5 +1,3 @@
-
-
 grains.forEach(function (grain) {
   var $ul = $('ul');
   var $li = $('<li>');

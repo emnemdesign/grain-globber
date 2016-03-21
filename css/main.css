@@ -15,10 +15,11 @@ html {
 }
 
 .grains li {
-   
+
 }
 
 .grains img {
+  float: left;
   width: 100px;
   display: block;
   margin-right: 5px;
