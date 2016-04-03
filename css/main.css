@@ -15,7 +15,7 @@ html {
 }
 
 .grains li {
-
+  clear: both;
 }
 
 .grains img {
@@ -23,6 +23,7 @@ html {
   width: 100px;
   display: block;
   margin-right: 5px;
+  margin-bottom: 20px;
 }
 
 .grains h2 {
